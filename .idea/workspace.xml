@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f5b180-7676-49b0-a60f-82f6ce52d8dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eproblems/example.ecsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eproblems/simple.ecsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nary/constraints/AllDiff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>token.trim()</find>
+      <find>raw</find>
+      <find>UnaryConstraint</find>
+      <find>gird</find>
+      <find>//</find>
+      <find>public</find>
+      <find>i</find>
+      <find>LAST_POSITION</find>
+      <find>2041753227</find>
+      <find>.out</find>
+      <find>grid_1__1_</find>
+      <find>(72)</find>
+      <find>BinaryTuple</find>
+      <find>nanoTime</find>
+      <find>nanosec</find>
+      <find>nan</find>
+      <find>General</find>
+      <find>langsford</find>
+      <find>future</find>
+      <find>forEach</find>
+      <find>for</find>
+      <find>new</find>
+      <find>solution</find>
+      <find>solution found</find>
+      <find>printInnerTime</find>
+      <find>remov</find>
+      <find>remo</find>
+      <find>nano</find>
+      <find>tree</find>
+      <find>()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Satisfaction</replace>
+      <replace>ALG_INDEX</replace>
+      <replace>sum</replace>
+      <replace>c</replace>
+      <replace>setArgumentValue</replace>
+      <replace>THEN</replace>
+      <replace>LinkedHashSet</replace>
+      <replace>Integer</replace>
+      <replace>a_1</replace>
+      <replace>a_</replace>
+      <replace>b_</replace>
+      <replace>A_</replace>
+      <replace>B_4</replace>
+      <replace>LinkedList</replace>
+      <replace>B_4_</replace>
+      <replace>line</replace>
+      <replace>[4]</replace>
+      <replace>String</replace>
+      <replace>PerformanceTracking</replace>
+      <replace>col</replace>
+      <replace>langfords</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/representation/BinaryCSPReader.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/NaryMAC.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/alg/BaseVarPrune.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/constraints/NaryConstraint.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/ECSProblem.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/alg/BaseVarArc.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/General.java" />
+        <option value="$PROJECT_DIR$/eproblems/langsford.ecsp" />
+        <option value="$PROJECT_DIR$/src/dualrep/types/BaseVariable.java" />
+        <option value="$PROJECT_DIR$/eproblems/sudoku.ecsp" />
+        <option value="$PROJECT_DIR$/src/dualrep/alg/NaryMAC.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/alg/NarySolving.java" />
+        <option value="$PROJECT_DIR$/src/main/Extension.java" />
+        <option value="$PROJECT_DIR$/src/dualrep/ECSPReader.java" />
+        <option value="$PROJECT_DIR$/src/nary/Assignment.java" />
+        <option value="$PROJECT_DIR$/src/binary/algorithms/PerformanceTracking.java" />
+        <option value="$PROJECT_DIR$/src/binary/algorithms/General.java" />
+        <option value="$PROJECT_DIR$/src/nary/algorithms/NaryFC.java" />
+        <option value="$PROJECT_DIR$/src/binary/types/BinaryConstraintStorage.java" />
+        <option value="$PROJECT_DIR$/src/binary/BinaryCSP.java" />
+        <option value="$PROJECT_DIR$/eproblems/allInterval.ecsp" />
+        <option value="$PROJECT_DIR$/src/nary/algorithms/NaryForwardChecking.java" />
+        <option value="$PROJECT_DIR$/src/nary/ECSProblem.java" />
+        <option value="$PROJECT_DIR$/src/nary/constraints/ForAll.java" />
+        <option value="$PROJECT_DIR$/eproblems/simple.ecsp" />
+        <option value="$PROJECT_DIR$/src/nary/constraints/NaryConstraint.java" />
+        <option value="$PROJECT_DIR$/eproblems/example.ecsp" />
+        <option value="$PROJECT_DIR$/src/nary/constraints/Exists.java" />
+        <option value="$PROJECT_DIR$/src/nary/ECSPReader.java" />
+        <option value="$PROJECT_DIR$/src/nary/algorithms/NaryMaintainingArcConsistency.java" />
+        <option value="$PROJECT_DIR$/src/nary/algorithms/BaseVarPrune.java" />
+        <option value="$PROJECT_DIR$/src/main/DualRepresentation.java" />
+        <option value="$PROJECT_DIR$/src/main/Basic.java" />
+        <option value="$PROJECT_DIR$/src/main/Nary.java" />
+        <option value="$PROJECT_DIR$/src/binary/algorithms/BinarySolving.java" />
+        <option value="$PROJECT_DIR$/src/nary/algorithms/NarySolving.java" />
+        <option value="$PROJECT_DIR$/src/nary/algorithms/BaseVarArc.java" />
+        <option value="$PROJECT_DIR$/src/binary/types/BinaryConstraint.java" />
+        <option value="$PROJECT_DIR$/src/binary/algorithms/Arc.java" />
+        <option value="$PROJECT_DIR$/src/binary/types/Variable.java" />
+        <option value="$PROJECT_DIR$/src/binary/types/AscendingVariable.java" />
+        <option value="$PROJECT_DIR$/src/nary/types/BaseVariable.java" />
+        <option value="$PROJECT_DIR$/src/binary/algorithms/MaintainingArcConsistency.java" />
+        <option value="$PROJECT_DIR$/src/binary/algorithms/ForwardChecking.java" />
+        <option value="$PROJECT_DIR$/src/main/SolvingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/ArgumentParser.java" />
+        <option value="$PROJECT_DIR$/src/nary/constraints/Assignment.java" />
+        <option value="$PROJECT_DIR$/eproblems/langfords.ecsp" />
+        <option value="$PROJECT_DIR$/src/main/Benchmark.java" />
+        <option value="$PROJECT_DIR$/script.sh" />
+        <option value="$PROJECT_DIR$/src/main/Logging.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1682" />
+    <option name="width" value="1910" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="eproblems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nary" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ConstraintSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConstraintSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nary" type="462c0819:PsiDirectoryNode" />
+              <item name="constraints" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555614950635" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Nary">
+    <configuration name="Basic" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Basic" />
+      <module name="ConstraintSolver" />
+      <option name="PROGRAM_PARAMETERS" value="FC problems/L2_4.csp 0 0 true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Benchmark" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Benchmark" />
+      <module name="ConstraintSolver" />
+      <option name="PROGRAM_PARAMETERS" value="10 1 problems/4Queens.csp problems/6Queens.csp problems/8Queens.csp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DualRepresentation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.DualRepresentation" />
+      <module name="ConstraintSolver" />
+      <option name="PROGRAM_PARAMETERS" value="MAC eproblems/langfords.ecsp 1 0 false" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LangfordsGenerator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generators.LangfordsGenerator" />
+      <module name="ConstraintSolver" />
+      <option name="PROGRAM_PARAMETERS" value="3 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nary" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Nary" />
+      <module name="ConstraintSolver" />
+      <option name="PROGRAM_PARAMETERS" value="MAC eproblems/langfords.ecsp 1 0 false" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueensGenerator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generators.QueensGenerator" />
+      <module name="ConstraintSolver" />
+      <option name="PROGRAM_PARAMETERS" value="6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Benchmark" />
+      <item itemvalue="Application.Basic" />
+      <item itemvalue="Application.DualRepresentation" />
+      <item itemvalue="Application.LangfordsGenerator" />
+      <item itemvalue="Application.QueensGenerator" />
+      <item itemvalue="Application.Nary" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f5b180-7676-49b0-a60f-82f6ce52d8dc" name="Default Changelist" comment="" />
+      <created>1553532102160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553532102160</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Sudoku (2x2) example and bug fix.&#10;3x3 sudoku causes an OutOfMemory error&#10;the bug was in reaching the end of the file with an empty line. Multiple empty lines caused a NoSuchElementException.">
+      <created>1555177973265</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1555177973265</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Bug fix. Correct Variable domain creation in bounds and better toStrings. Still so very slow.">
+      <created>1555324313877</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1555324313877</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Method rename. propagate change is more accurate.">
+      <created>1555365628669</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1555365628669</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Shorter revise methods. This should help in making the problem consistent before the algorithm starts.">
+      <created>1555366204781</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1555366204781</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Consistency is now ensured at the start of the problem.">
+      <created>1555367575589</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1555367575589</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Variable is more generic. AscendingVariable uses TreeSet to order the elements.">
+      <created>1555368416521</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1555368416521</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Performance is now tracked.">
+      <created>1555370807835</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1555370807835</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Counting arc revisions.">
+      <created>1555371904764</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1555371904764</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Benchmarking class.">
+      <created>1555374682662</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1555374682662</updated>
+    </task>
+    <task id="LOCAL-00085" summary="A some sample csps.">
+      <created>1555376409712</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1555376409712</updated>
+    </task>
+    <task id="LOCAL-00086" summary="An execution bash script.&#10;Simplifies puzzle creation and solver execution">
+      <created>1555378673779</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1555378673779</updated>
+    </task>
+    <task id="LOCAL-00087" summary="This sudoku is solvable.">
+      <created>1555385646269</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1555385646269</updated>
+    </task>
+    <task id="LOCAL-00088" summary="This seems better working than converting to binary.&#10;NEED COMMENTS AND NON-MAGIC NUMBERS.">
+      <created>1555393855973</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1555393855973</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Takes forever but doesn't run out of memory. Yey!&#10;This seems better working than converting to binary.&#10;NEED COMMENTS AND NON-MAGIC NUMBERS.">
+      <created>1555395090524</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1555395090524</updated>
+    </task>
+    <task id="LOCAL-00090" summary="final commit before getting breakfast. Need to rename &quot;main.Extension&quot; to &quot;main.DualRepresentation&quot; and then add &quot;main.CustomSolving&quot;.">
+      <created>1555395795766</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1555395795766</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Some renaming. might need more restructuring.">
+      <created>1555405659289</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1555405659294</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Moved classes around">
+      <created>1555405975022</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1555405975022</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Final re-structuring.&#10;Along with an Interface SolvingAlgorithm. It should be implemented by the solving classes.">
+      <created>1555406765248</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1555406765248</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Generifying....">
+      <created>1555410591045</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1555410591045</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Seems better.">
+      <created>1555411307297</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1555411307297</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Ugghhhh, this was exhausting">
+      <created>1555412447012</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1555412447012</updated>
+    </task>
+    <task id="LOCAL-00097" summary="some JavaDoc">
+      <created>1555416738881</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1555416738881</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Quick Queens. Time to generate Data.">
+      <created>1555423772619</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1555423772619</updated>
+    </task>
+    <task id="LOCAL-00099" summary="This should be following the instructions.&#10;Time to run the killer command">
+      <created>1555442284424</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1555442284424</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Some JavaDoc and report frame.">
+      <created>1555490379701</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1555490379701</updated>
+    </task>
+    <task id="LOCAL-00101" summary="ecsp rename and new ecsp">
+      <created>1555497668262</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1555497668262</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Improved n-ary arc revision">
+      <created>1555502786265</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1555502786265</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Correct Assignment toString">
+      <created>1555514466854</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1555514466855</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Some JavaDoc">
+      <created>1555515251630</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1555515251630</updated>
+    </task>
+    <task id="LOCAL-00105" summary="ForAll now uses static methods only. Also started exists...">
+      <created>1555516327401</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1555516327401</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Exists is sooo taxing. but works">
+      <created>1555517759540</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1555517759540</updated>
+    </task>
+    <task id="LOCAL-00107" summary="JavaDocs :)">
+      <created>1555518412261</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1555518412261</updated>
+    </task>
+    <task id="LOCAL-00108" summary="TimeEfficiency. Sort of.&#10;variable ordering matters&#10;and so does using makeConsistent at the start">
+      <created>1555553323652</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1555553323653</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Consistent start is controlled via a flag.">
+      <created>1555581045064</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1555581045065</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Smallest domain is 1. So break early.">
+      <created>1555581657783</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1555581657783</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Better? retain method in Variable">
+      <created>1555582870567</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1555582870567</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Ascending HashCode order">
+      <created>1555585078620</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1555585078620</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Ascending HashCode order in BaseVariable as well">
+      <created>1555585394234</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1555585394234</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Problem representation described in report.">
+      <created>1555586162009</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1555586162009</updated>
+    </task>
+    <task id="LOCAL-00115" summary="More on Common Algorithm.">
+      <created>1555588812888</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1555588812888</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Did text some text for empirical evaluation and generated some data.">
+      <created>1555593402511</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1555593402511</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Evaluation done.">
+      <created>1555596809453</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1555596809453</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Supports up to 2^32 solutions. Also progress on report, extensions section.">
+      <created>1555599086657</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1555599086657</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Time for conclusion.">
+      <created>1555606017104</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1555606017104</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Concluded?">
+      <created>1555607376380</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1555607376380</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Script styled">
+      <created>1555607539545</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1555607539545</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Almost done with user manual.">
+      <created>1555611351140</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1555611351140</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Am I done?">
+      <created>1555614535265</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1555614535265</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Seems so.">
+      <created>1555614675735</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1555614675735</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23017408" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292204" />
+      <window_info anchor="bottom" x="81" y="387" width="1759" height="847" id="Run" order="2" weight="0.25911385" />
+      <window_info anchor="bottom" x="68" y="367" width="1580" height="940" id="Debug" order="3" weight="0.39988783" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32978126" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3292204" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.37969714" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32978126" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.32978126" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24951644" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csp" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Some JavaDoc and report frame." />
+    <MESSAGE value="ecsp rename and new ecsp" />
+    <MESSAGE value="Improved n-ary arc revision" />
+    <MESSAGE value="Correct Assignment toString" />
+    <MESSAGE value="Some JavaDoc" />
+    <MESSAGE value="ForAll now uses static methods only. Also started exists..." />
+    <MESSAGE value="Exists is sooo taxing. but works" />
+    <MESSAGE value="JavaDocs :)" />
+    <MESSAGE value="TimeEfficiency. Sort of.&#10;variable ordering matters&#10;and so does using makeConsistent at the start" />
+    <MESSAGE value="Consistent start is controlled via a flag." />
+    <MESSAGE value="Smallest domain is 1. So break early." />
+    <MESSAGE value="Better? retain method in Variable" />
+    <MESSAGE value="Ascending HashCode order" />
+    <MESSAGE value="Ascending HashCode order in BaseVariable as well" />
+    <MESSAGE value="Problem representation described in report." />
+    <MESSAGE value="More on Common Algorithm." />
+    <MESSAGE value="Did text some text for empirical evaluation and generated some data." />
+    <MESSAGE value="Evaluation done." />
+    <MESSAGE value="Supports up to 2^32 solutions. Also progress on report, extensions section." />
+    <MESSAGE value="Time for conclusion." />
+    <MESSAGE value="Concluded?" />
+    <MESSAGE value="Script styled" />
+    <MESSAGE value="Almost done with user manual." />
+    <MESSAGE value="Am I done?" />
+    <MESSAGE value="Seems so." />
+    <option name="LAST_COMMIT_MESSAGE" value="Seems so." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/util/HashMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="361" column="13" selection-start-line="361" selection-start-column="13" selection-end-line="361" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/PerformanceTracking.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/lang/Override.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/lang/System.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="127" column="30" selection-start-line="127" selection-start-column="30" selection-end-line="127" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/util/Objects.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproblems/sudoku.ecsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="44" column="58" lean-forward="true" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproblems/allInterval.ecsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/L2_4.csp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19597">
+          <caret line="62" column="4" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/types/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/types/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/constraints/Exists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/constraints/ForAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Nary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/constraints/UnaryConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="63" column="61" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/util/HashSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="60" lean-forward="true" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk/jre/lib/rt.jar!/java/util/LinkedHashSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/types/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#value#0;class#Variable#0" />
+            <element signature="docComment;field#domain#0;class#Variable#0" />
+            <element signature="docComment;field#id#0;class#Variable#0" />
+            <element signature="docComment;method#Variable#0;class#Variable#0" />
+            <element signature="docComment;method#getId#0;class#Variable#0" />
+            <element signature="docComment;method#assign#0;class#Variable#0" />
+            <element signature="docComment;method#unassign#0;class#Variable#0" />
+            <element signature="docComment;method#removeFromDomain#0;class#Variable#0" />
+            <element signature="docComment;method#addToDomain#0;class#Variable#0" />
+            <element signature="docComment;method#getDomainSize#0;class#Variable#0" />
+            <element signature="docComment;method#domainContains#0;class#Variable#0" />
+            <element signature="docComment;method#getDomain#0;class#Variable#0" />
+            <element signature="docComment;method#getNextVal#0;class#Variable#0" />
+            <element signature="docComment;method#hashCode#0;class#Variable#0" />
+            <element signature="method#equals#0;class#Variable#0" />
+            <element signature="docComment;method#toString#0;class#Variable#0" />
+            <element signature="method#toString#0;class#Variable#0" />
+            <element signature="docComment;method#getValue#0;class#Variable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/types/AscendingVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/types/BinaryTuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/types/BinaryConstraintStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="48" lean-forward="true" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/BinaryCSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/types/BinaryConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+          <folding>
+            <element signature="docComment;class#BinaryConstraint#0" />
+            <element signature="docComment;field#var1#0;class#BinaryConstraint#0" />
+            <element signature="docComment;field#var2#0;class#BinaryConstraint#0" />
+            <element signature="docComment;field#tuples#0;class#BinaryConstraint#0" />
+            <element signature="docComment;method#BinaryConstraint#0;class#BinaryConstraint#0" />
+            <element signature="method#BinaryConstraint#0;class#BinaryConstraint#0" />
+            <element signature="method#equals#0;class#BinaryConstraint#0" />
+            <element signature="docComment;method#toString#0;class#BinaryConstraint#0" />
+            <element signature="method#toString#0;class#BinaryConstraint#0" />
+            <element signature="docComment;method#getSecondSupported#0;class#BinaryConstraint#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/Prune.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/ForwardChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/MaintainingArcConsistency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/BinarySolving.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+          <folding>
+            <element signature="docComment;field#problem#0;class#BinarySolving#0" />
+            <element signature="docComment;field#past#0;class#BinarySolving#0" />
+            <element signature="docComment;field#future#0;class#BinarySolving#0" />
+            <element signature="docComment;field#solutionCount#0;class#BinarySolving#0" />
+            <element signature="docComment;field#solutions#0;class#BinarySolving#0" />
+            <element signature="docComment;method#BinarySolving#0;class#BinarySolving#0" />
+            <element signature="docComment;method#solve#0;class#BinarySolving#0" />
+            <element signature="docComment;method#checkState#0;class#BinarySolving#0" />
+            <element signature="docComment;method#getSmallestDomainVariable#0;class#BinarySolving#0" />
+            <element signature="docComment;method#leftBranch#0;class#BinarySolving#0" />
+            <element signature="docComment;method#rightBranch#0;class#BinarySolving#0" />
+            <element signature="docComment;method#areAllVariablesAssigned#0;class#BinarySolving#0" />
+            <element signature="e#4642#4643#0" expanded="true" />
+            <element signature="e#4681#4682#0" expanded="true" />
+            <element signature="docComment;method#assign#0;class#BinarySolving#0" />
+            <element signature="method#assign#0;class#BinarySolving#0" />
+            <element signature="docComment;method#unassign#0;class#BinarySolving#0" />
+            <element signature="method#unassign#0;class#BinarySolving#0" />
+            <element signature="docComment;method#propagateChange#0;class#BinarySolving#0" />
+            <element signature="docComment;method#recurseIfConsistent#0;class#BinarySolving#0" />
+            <element signature="docComment;method#revise#0;class#BinarySolving#0" />
+            <element signature="docComment;method#getFuture#0;class#BinarySolving#0" />
+            <element signature="e#7425#7426#0" expanded="true" />
+            <element signature="e#7454#7455#0" expanded="true" />
+            <element signature="docComment;method#getProblem#0;class#BinarySolving#0" />
+            <element signature="e#7545#7546#0" expanded="true" />
+            <element signature="e#7575#7576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SolvingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="59" column="42" selection-start-line="59" selection-start-column="42" selection-end-line="59" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/ECSPReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1594">
+          <caret line="378" column="42" lean-forward="true" selection-start-line="378" selection-start-column="42" selection-end-line="378" selection-end-column="42" />
+          <folding>
+            <element signature="docComment;class#ECSPReader#0" />
+            <element signature="docComment;method#parse#0;class#ECSPReader#0" />
+            <element signature="method#parse#0;class#ECSPReader#0" />
+            <element signature="docComment;field#scanner#0;class#ECSPReader#0" />
+            <element signature="docComment;field#currentLineNumber#0;class#ECSPReader#0" />
+            <element signature="docComment;field#constants#0;class#ECSPReader#0" />
+            <element signature="docComment;field#vars#0;class#ECSPReader#0" />
+            <element signature="docComment;field#unaryConstraints#0;class#ECSPReader#0" />
+            <element signature="docComment;field#naryConstraints#0;class#ECSPReader#0" />
+            <element signature="docComment;field#problem#0;class#ECSPReader#0" />
+            <element signature="docComment;method#ECSPReader#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseProblem#0;class#ECSPReader#0" />
+            <element signature="method#parseProblem#0;class#ECSPReader#0" />
+            <element signature="docComment;method#readNextLine#0;class#ECSPReader#0" />
+            <element signature="method#readNextLine#0;class#ECSPReader#0" />
+            <element signature="docComment;method#replaceConstants#0;class#ECSPReader#0" />
+            <element signature="method#replaceConstants#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseLine#0;class#ECSPReader#0" />
+            <element signature="method#parseLine#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseVariableDeclaration#0;class#ECSPReader#0" />
+            <element signature="method#parseVariableDeclaration#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseConstant#0;class#ECSPReader#0" />
+            <element signature="method#parseConstant#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseVariable#0;class#ECSPReader#0" />
+            <element signature="method#parseVariable#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseMatrix#0;class#ECSPReader#0" />
+            <element signature="method#parseMatrix#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseAllDiff#0;class#ECSPReader#0" />
+            <element signature="method#parseAllDiff#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseConstraint#0;class#ECSPReader#0" />
+            <element signature="docComment;method#replaceMatrixAccesses#0;class#ECSPReader#0" />
+            <element signature="method#replaceMatrixAccesses#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseUnary#0;class#ECSPReader#0" />
+            <element signature="method#parseUnary#0;class#ECSPReader#0" />
+            <element signature="docComment;method#parseNary#0;class#ECSPReader#0" />
+            <element signature="method#parseNary#0;class#ECSPReader#0" />
+            <element signature="docComment;method#failedToRecognize#0;class#ECSPReader#0" />
+            <element signature="method#failedToRecognize#0;class#ECSPReader#0" />
+            <element signature="docComment;method#constructProblem#0;class#ECSPReader#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/constraints/Assignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#deepCopy#0;class#Assignment#0" />
+            <element signature="docComment;method#isCompatibleWith#0;class#Assignment#0" />
+            <element signature="docComment;method#asMatrixAccess#0;class#Assignment#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/constraints/NaryConstraint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#NaryConstraint#0" />
+            <element signature="docComment;method#parse#0;class#NaryConstraint#0" />
+            <element signature="method#parse#0;class#NaryConstraint#0" />
+            <element signature="e#1113#1149#1" />
+            <element signature="docComment;field#constraint#0;class#NaryConstraint#0" />
+            <element signature="docComment;field#problem#0;class#NaryConstraint#0" />
+            <element signature="docComment;field#domain#0;class#NaryConstraint#0" />
+            <element signature="docComment;method#NaryConstraint#0;class#NaryConstraint#0" />
+            <element signature="docComment;method#setProblem#0;class#NaryConstraint#0" />
+            <element signature="docComment;method#storeValidAssignments#0;class#NaryConstraint#0" />
+            <element signature="e#2742#2800#1" />
+            <element signature="docComment;method#storeValidAssignments#1;class#NaryConstraint#0" />
+            <element signature="e#3410#3477#1" />
+            <element signature="docComment;method#storeIfValid#0;class#NaryConstraint#0" />
+            <element signature="docComment;method#getAllowedTuples#0;class#NaryConstraint#0" />
+            <element signature="method#getAllowedTuples#0;class#NaryConstraint#0" />
+            <element signature="e#5069#5475#1" />
+            <element signature="e#5188#5465#1" />
+            <element signature="e#5323#5451#1" />
+            <element signature="docComment;method#getDomainSize#0;class#NaryConstraint#0" />
+            <element signature="docComment;method#getValue#0;class#NaryConstraint#0" />
+            <element signature="method#toString#0;class#NaryConstraint#0" />
+            <element signature="e#6041#6107#1" />
+            <element signature="method#equals#0;class#NaryConstraint#0" />
+            <element signature="e#6481#6517#1" />
+            <element signature="e#6562#6599#1" />
+            <element signature="docComment;method#getSupported#0;class#NaryConstraint#0" />
+            <element signature="method#getSupported#0;class#NaryConstraint#0" />
+            <element signature="e#7339#7375#1" />
+            <element signature="e#7478#7597#1" />
+            <element signature="e#7525#7587#1" />
+            <element signature="docComment;method#containsBaseVar#0;class#NaryConstraint#0" />
+            <element signature="method#containsBaseVar#0;class#NaryConstraint#0" />
+            <element signature="docComment;method#getVarNames#0;class#NaryConstraint#0" />
+            <element signature="method#getVarNames#0;class#NaryConstraint#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproblems/L2_4.ecsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/DualRepresentation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="62" column="5" lean-forward="true" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproblems/langfords.ecsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/ECSProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="docComment;class#ECSProblem#0" />
+            <element signature="docComment;field#variables#0;class#ECSProblem#0" />
+            <element signature="docComment;field#unary#0;class#ECSProblem#0" />
+            <element signature="docComment;field#nary#0;class#ECSProblem#0" />
+            <element signature="docComment;method#setVariables#0;class#ECSProblem#0" />
+            <element signature="method#setVariables#0;class#ECSProblem#0" />
+            <element signature="docComment;method#setUnary#0;class#ECSProblem#0" />
+            <element signature="method#setUnary#0;class#ECSProblem#0" />
+            <element signature="docComment;method#setNary#0;class#ECSProblem#0" />
+            <element signature="method#setNary#0;class#ECSProblem#0" />
+            <element signature="docComment;method#getVariable#0;class#ECSProblem#0" />
+            <element signature="docComment;method#asBinaryCSP#0;class#ECSProblem#0" />
+            <element signature="docComment;method#applyUnary#0;class#ECSProblem#0" />
+            <element signature="docComment;method#createBounds#0;class#ECSProblem#0" />
+            <element signature="docComment;method#createBinaryConstraints#0;class#ECSProblem#0" />
+            <element signature="docComment;method#forEachVariable#0;class#ECSProblem#0" />
+            <element signature="method#forEachVariable#0;class#ECSProblem#0" />
+            <element signature="docComment;method#prepare#0;class#ECSProblem#0" />
+            <element signature="method#prepare#0;class#ECSProblem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/algorithms/NarySolving.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="136" column="9" lean-forward="true" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;class#NarySolving#0" />
+            <element signature="docComment;field#problem#0;class#NarySolving#0" />
+            <element signature="docComment;field#past#0;class#NarySolving#0" />
+            <element signature="docComment;field#future#0;class#NarySolving#0" />
+            <element signature="docComment;field#solutionCount#0;class#NarySolving#0" />
+            <element signature="docComment;field#solutions#0;class#NarySolving#0" />
+            <element signature="docComment;method#NarySolving#0;class#NarySolving#0" />
+            <element signature="method#NarySolving#0;class#NarySolving#0" />
+            <element signature="method#innerSolve#0;class#NarySolving#0" />
+            <element signature="method#makeConsistent#0;class#NarySolving#0" />
+            <element signature="e#1491#1590#1" />
+            <element signature="docComment;method#solve#0;class#NarySolving#0" />
+            <element signature="method#solve#0;class#NarySolving#0" />
+            <element signature="e#2039#2070#1" />
+            <element signature="docComment;method#leftBranch#0;class#NarySolving#0" />
+            <element signature="method#leftBranch#0;class#NarySolving#0" />
+            <element signature="e#2476#2521#1" />
+            <element signature="docComment;method#rightBranch#0;class#NarySolving#0" />
+            <element signature="method#rightBranch#0;class#NarySolving#0" />
+            <element signature="e#2940#2985#1" />
+            <element signature="docComment;method#checkState#0;class#NarySolving#0" />
+            <element signature="method#checkState#0;class#NarySolving#0" />
+            <element signature="e#3323#3403#1" />
+            <element signature="docComment;method#getSmallestDomainVariable#0;class#NarySolving#0" />
+            <element signature="docComment;method#areAllVariablesAssigned#0;class#NarySolving#0" />
+            <element signature="docComment;method#assign#0;class#NarySolving#0" />
+            <element signature="method#assign#0;class#NarySolving#0" />
+            <element signature="docComment;method#unassign#0;class#NarySolving#0" />
+            <element signature="method#unassign#0;class#NarySolving#0" />
+            <element signature="docComment;method#propagateChange#0;class#NarySolving#0" />
+            <element signature="method#propagateChange#0;class#NarySolving#0" />
+            <element signature="docComment;method#revise#0;class#NarySolving#0" />
+            <element signature="docComment;method#getProblem#0;class#NarySolving#0" />
+            <element signature="docComment;method#getPast#0;class#NarySolving#0" />
+            <element signature="docComment;method#getFuture#0;class#NarySolving#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/algorithms/NaryMaintainingArcConsistency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="60" column="54" lean-forward="true" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/algorithms/NaryForwardChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/algorithms/BaseVarPrune.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/types/BaseVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="129" column="15" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
+          <folding>
+            <element signature="docComment;method#parse#0;class#BaseVariable#0" />
+            <element signature="method#parse#0;class#BaseVariable#0" />
+            <element signature="docComment;field#name#0;class#BaseVariable#0" />
+            <element signature="docComment;field#domain#0;class#BaseVariable#0" />
+            <element signature="docComment;method#BaseVariable#0;class#BaseVariable#0" />
+            <element signature="docComment;method#getName#0;class#BaseVariable#0" />
+            <element signature="docComment;method#getDomain#0;class#BaseVariable#0" />
+            <element signature="method#getDomain#0;class#BaseVariable#0" />
+            <element signature="e#2193#2252#1" />
+            <element signature="e#2258#2379#1" />
+            <element signature="docComment;method#getDomainSize#0;class#BaseVariable#0" />
+            <element signature="docComment;method#assign#0;class#BaseVariable#0" />
+            <element signature="docComment;method#unassign#0;class#BaseVariable#0" />
+            <element signature="docComment;method#removeFromDomain#0;class#BaseVariable#0" />
+            <element signature="docComment;method#addToDomain#0;class#BaseVariable#0" />
+            <element signature="docComment;method#isConsistent#0;class#BaseVariable#0" />
+            <element signature="docComment;method#getNextValue#0;class#BaseVariable#0" />
+            <element signature="e#3610#3611#0" expanded="true" />
+            <element signature="e#3657#3658#0" expanded="true" />
+            <element signature="docComment;method#getValue#0;class#BaseVariable#0" />
+            <element signature="docComment;method#getCommonConstraints#0;class#BaseVariable#0" />
+            <element signature="docComment;method#retainValues#0;class#BaseVariable#0" />
+            <element signature="method#equals#0;class#BaseVariable#0" />
+            <element signature="method#toString#0;class#BaseVariable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/algorithms/BaseVarArc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="48" column="6" lean-forward="true" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary/algorithms/Arc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Benchmark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/ArgumentParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#ALG_INDEX#0;class#ArgumentParser#0" />
+            <element signature="docComment;field#COUNT_INDEX#0;class#ArgumentParser#0" />
+            <element signature="docComment;field#args#0;class#ArgumentParser#0" />
+            <element signature="docComment;field#alg#0;class#ArgumentParser#0" />
+            <element signature="docComment;method#getExecutionTime#0;class#ArgumentParser#0" />
+            <element signature="docComment;method#getSearchTreeNodes#0;class#ArgumentParser#0" />
+            <element signature="docComment;method#getArcRevisions#0;class#ArgumentParser#0" />
+            <element signature="docComment;method#areArgsValid#0;class#ArgumentParser#0" />
+            <element signature="docComment;method#getAlgorithm#0;class#ArgumentParser#0" />
+            <element signature="docComment;method#parseSolutionCount#0;class#ArgumentParser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Logging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nary/constraints/AllDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproblems/simple.ecsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eproblems/example.ecsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ConstraintSolver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mXparser</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

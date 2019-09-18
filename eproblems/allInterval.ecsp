@@ -1,0 +1,14 @@
+// This is problem 007 from csp lib  http://www.csplib.org/Problems/prob007/
+
+// This is effectively n-1 in the problem spec.
+// In the spec, n itself is not used as an index.
+// The constraint model only cares about the last index
+const N : 11
+
+matrix s : [ 0 , N ] of values 0 , N
+matrix d : [ 1 , N ] of values 1 , N
+
+forAll i : 1 , N
+    d[i] = s[ i - 1 ] - s[i]
+
+allDiff d[..]

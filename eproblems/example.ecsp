@@ -1,0 +1,27 @@
+const MIN : 0
+const MAX : 10
+
+var a : MIN, MAX
+var b : MIN, MAX
+var c : MIN, MAX
+
+// Remember spaces around constants
+var my_var : MIN * 2 , MAX / 2
+matrix many_dimensions: [ 3,7; MIN , MAX / 4] of values 2 * MIN , 3 * MAX
+
+// Constraints
+allDiff a, b, c
+b > 1
+c != 4
+a < b
+b < c
+a + b = c
+
+// Matrix access and implication example
+(many_dimensions[3][MIN] < my_var) --> (1 < 0)
+
+forAll i : 4 , 5
+    allDiff many_dimensions[i][..]
+
+exists i : 3, 3
+    many_dimensions[i][ MIN + 1 ] != 0

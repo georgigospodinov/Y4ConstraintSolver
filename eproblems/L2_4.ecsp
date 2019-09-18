@@ -1,0 +1,17 @@
+// Constants
+const MIN : 1
+const MAX : 4+4
+
+// Variables
+// two sets of 4 numbers: a{1,2,3,4} and b{1,2,3,4}
+matrix A : [1 , MAX / 2] of values MIN , MAX
+matrix B : [1 , MAX / 2] of values MIN + 1 - 1 , MAX
+
+// Constraints
+/// Difference
+allDiff A [..], B[ .. ]
+allDiff A[1], A[3], B[2]
+
+/// Spaces
+forAll i : 1, 4
+    A[ i] + i + 1 = B[i ]

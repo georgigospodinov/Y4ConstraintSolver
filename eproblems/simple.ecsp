@@ -1,0 +1,4 @@
+matrix grid : [ 1,3 ; 1,3] of values 1,3
+
+forAll i : 1,3
+    allDiff grid[i][..]
